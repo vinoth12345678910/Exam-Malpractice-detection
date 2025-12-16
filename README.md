@@ -196,26 +196,7 @@ Triggered when:
 
 ---
 
-## 🎓 Interview / Viva Justification (VERY IMPORTANT)
 
-> “Due to dataset limitations and real-time constraints, the system uses YOLO for visual cues and a temporal behavioral reasoning layer to ensure robust malpractice detection under noisy conditions.”
-
-This explanation demonstrates:
-- Practical ML understanding
-- System-level thinking
-- Awareness of real-world AI limitations
-
----
-
-## 📌 Why This Project Stands Out
-
-✔ Not just model training — **system design**  
-✔ Honest handling of dataset flaws  
-✔ Strong engineering decisions  
-✔ Real-time deployment  
-✔ Industry-aligned approach  
-
----
 
 ## 🚀 Future Improvements
 
