@@ -223,4 +223,3 @@ Please ⭐ the repository — it motivates continued research and development!
 ---
 
 
-Model used:
